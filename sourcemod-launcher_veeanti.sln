@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sourcemod-launcher", "sourcemod-launcher_veeanti.csproj", "{CAE1514A-F711-4943-A092-6177D8A853BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAE1514A-F711-4943-A092-6177D8A853BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAE1514A-F711-4943-A092-6177D8A853BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAE1514A-F711-4943-A092-6177D8A853BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAE1514A-F711-4943-A092-6177D8A853BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
